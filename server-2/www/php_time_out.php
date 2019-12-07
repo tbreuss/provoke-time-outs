@@ -1,5 +1,8 @@
 <?php
 
+ini_set("log_errors", 1);
+ini_set("error_log", __DIR__ . "/error.log");
+
 ini_set('max_execution_time', 5);
 
 while(true) {
