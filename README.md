@@ -1,6 +1,6 @@
 # README
 
-Simple test environment to provoke time-outs either from nginx, apache, or php.
+Simple test environment to provoke time-outs in nginx, apache, and php.
 
 
 ## Environment
